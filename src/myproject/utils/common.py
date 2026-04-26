@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Any
 from box import ConfigBox
 from box.exceptions import BoxValueError
-from mlproject import logger
+from myproject import logger
 from ensure import ensure_annotations 
 
 @ensure_annotations
